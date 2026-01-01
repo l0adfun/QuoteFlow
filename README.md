@@ -46,6 +46,11 @@ Open the project in any modern browser. No installation required. The app works 
 No installation required. Simply open `index.html` in a browser.  
 
 ```bash
-git clone https://github.com/yourusername/QuoteFlow.git
+git clone https://github.com/l0adfun/QuoteFlow.git
 cd QuoteFlow
 open index.html
+
+###or go to..
+
+```bash
+https://l0adfun.github.io/QuoteFlow/
