@@ -41,7 +41,7 @@ Open the project in any modern browser. No installation required. The app works 
 
 ---
 
-## Installation
+## Installation(Optional)
 
 No installation required. Simply open `index.html` in a browser.  
 
