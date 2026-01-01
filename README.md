@@ -49,8 +49,10 @@ No installation required. Simply open `index.html` in a browser.
 git clone https://github.com/l0adfun/QuoteFlow.git
 cd QuoteFlow
 open index.html
+```
 
-###or go to..
+###Or go to..
 
 ```bash
 https://l0adfun.github.io/QuoteFlow/
+```
