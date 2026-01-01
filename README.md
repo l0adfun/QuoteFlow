@@ -51,7 +51,7 @@ cd QuoteFlow
 open index.html
 ```
 
-###Or go to..
+### Or go to..
 
 ```bash
 https://l0adfun.github.io/QuoteFlow/
